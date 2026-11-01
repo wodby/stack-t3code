@@ -1,0 +1,10 @@
+name: t3code
+title: T3 Code
+icon: t3code
+
+services:
+- name: t3code
+  title: T3 Code
+  service: t3code
+  required: true
+  main: true
