@@ -11,6 +11,7 @@ composition for T3 Code.
 
 - [T3 Code stack on Wodby](https://wodby.com/stacks/t3code)
 - [Browse Wodby application stacks](https://wodby.com/stacks)
+- [T3 Code stack guide](https://wodby.com/docs/2.0/stacks/catalog/t3code/)
 - [Wodby stack documentation](https://wodby.com/docs/2.0/stacks/)
 - [Stack manifest reference](https://wodby.com/docs/2.0/stacks/template/)
 
